@@ -1,2 +1,16 @@
-# text2speech
-This Python script leverages the PyPDF2 library to read a specified range of pages from a PDF file and utilizes pyttsx3 for text-to-speech conversion, allowing users to create an audiobook from PDF content.
+# audiobook
+read any audio book using 15 lines of python
+
+
+### Installation
+To read PDF file using Python
+` pip install pypdf2
+`
+To Read text (Text to speech)
+` pip install pyaudio
+`
+` pip install pyttsx3
+`
+
+#### Note:
+This code can read all the printable text from a PDF file/ Book
